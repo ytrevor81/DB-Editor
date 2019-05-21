@@ -1,5 +1,5 @@
 # DB-Manipulator
-Browse, edit, and customize your SQLite databases with ease!
+Browse, edit, and customize your SQLite databases with this desktop app!
 
 <h1>Technologies:</h1>
 Python 3
