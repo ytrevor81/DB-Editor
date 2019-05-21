@@ -207,7 +207,7 @@ class Ui_MainWindow(object):
         self.view_insert(shownames)
 
     def view_insert(self, list):
-        '''Inserts items in a list in the view listwidget'''
+        '''Inserts items from a list into the view listwidget'''
         self.view.clear()
         for i in list:
             self.view.addItem(i)
