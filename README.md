@@ -16,7 +16,7 @@ Choose a database file by clicking the "Open DB" button.
 
 <h1>Step 2</h1>
 
-All of the SQLite tables in the selected database file should appear in the list display. In this mode, you can: rename any table with no alterations to data within the table, delete any table, and create tables and add them to your current database file.
+All of the SQLite tables from your selected database file will appear in the list display. In this mode, you can: rename any table with no alterations to data within the table, delete any table, and create tables and add them to your current database file.
 
 If you want to change database files, click the "Close DB" button and repeat Step 1. If you want to view and edit information within a table, click the "Show Data" button.
 
@@ -24,7 +24,7 @@ If you want to change database files, click the "Close DB" button and repeat Ste
 
 <h1>Step 3</h1>
 
-All of the data in your selected table will be shown in the table display, while all of your column information will be shown in the list display. In this mode, you can: edit and replace data in your table via table display, rename columns with no alterations to data in the column, delete any column, and add columns to your current table.
+All of the data from your selected table will appear in the table display, while all of your column information will appear in the list display. In this mode, you can: edit and replace data in your table via table display, rename columns with no alterations to data in the column, delete any column, and add columns to your current table.
 
 To save changes made in the table display, click the "Edit Data" button. To view in the table display changes you made to columns in the list display, click the "Refresh" button. If you want to change to a different table in your current database file, click the "Exit Table" button and select a new table.
 
