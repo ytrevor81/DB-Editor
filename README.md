@@ -30,7 +30,7 @@ To save changes made in the table display, click the "Edit Data" button. To view
 
 ![db_2](https://user-images.githubusercontent.com/46886041/58078517-24618000-7bd9-11e9-8f09-fdf70f5f7195.PNG)
 
-Essentially, this app is a simplified version of the DB Browser desktop app.
+Lastly, the transfer.csv file is necessary only to transfer editted data from the table display to a replica SQLite table--no other information from the selected table is altered in any way. It's also necessary to mention that this app is essentially a simplified version of the DB Browser desktop app.
 
 
 
