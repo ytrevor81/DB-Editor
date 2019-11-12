@@ -1,4 +1,4 @@
-# DB-Manipulator
+# DB Editor
 A desktop app to browse, edit, and customize your SQLite databases
 
 <h1>Technologies:</h1>
